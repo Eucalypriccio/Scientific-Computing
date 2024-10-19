@@ -1,5 +1,3 @@
-import numpy as np
-
 def aitken_iteration(iterative, x_0, epsilon):
     k = 1
     x_cur = x_0
